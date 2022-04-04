@@ -25,7 +25,7 @@ Prerequisites
 
 #### Step 1
 
-Clone this repo and configure search index using the search-api/azure-search-with-custom-index.ipynb
+Clone this repo and configure search index using the search-api/azure-search-with-custom-index.ipynb jupyter notebook.
 
 #### Step 2
 
