@@ -21,7 +21,7 @@ Prerequisites
         Angular CLI version 12.1.4 or later. 
 
 
-### Steps to Get this running
+### Steps to get this running
 
 #### Step 1
 
