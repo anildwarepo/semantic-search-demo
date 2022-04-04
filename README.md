@@ -9,7 +9,7 @@ The UI is created with Angular, and backend API uses Flask to host the APIs.
         Top Answers
         Captions
         Highlights
-        Faced Search
+        Faceted Search
         Azure Cognitive Search Skills for Text Analytics, Key Phrases, Entity Extraction 
 
 Prerequisites
